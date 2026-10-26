@@ -17,6 +17,33 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=22&duration=4500&pause=2500&color=FFFFFF&center=true&vCenter=true&width=1450&height=40&lines=Welcome+to+my+GitHub+profile%2C+where+I+build+things%2C+collect+bugs%2C+and+learn+along+the+way." alt="Typing SVG" /></a>
 </p>
 
+<p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
+
+
+<h3 align="center">About Me</h3>
+
+<img align="right" width="300" src="./about-tank.svg" alt="Floating in the tank" />
+
+<p>
+  <b>Placeholder title line</b> · this is where a short introduction about you will go.
+</p>
+
+<p>
+  This is the second paragraph. It will describe what you study, what you are working on
+  right now and what kind of problems you enjoy solving.
+</p>
+
+<p>
+  This is the third paragraph. It will mention the tools and topics you are learning
+  at the moment, and what you would like to work on next.
+</p>
+
+<p>
+  This is the last paragraph. It will end with something personal or a short goal.
+</p>
+
+<br clear="right" />
+
 <p align="center"><img src="./divider.svg" width="720" /></p>
 
 <p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
