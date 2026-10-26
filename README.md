@@ -1,1 +1,51 @@
-# github-design
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Banner" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=500&size=25&letterSpacing=0.04em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=760&height=45&lines=Hi%2C+I%E2%80%99m+Stefan+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=500&size=21&letterSpacing=0.04em&duration=4500&pause=2500&color=FFFFFF&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+GitHub+profile%2C+where+I+build+things%2C+collect+bugs%2C+and+learn+along+the+way." alt="Typing SVG" /></a>
+</p>
+
+<p align="center"><img src="./divider.svg" width="720" /></p>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=760&height=45&lines=Hi%2C+I%E2%80%99m+Stefan+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=22&duration=4500&pause=2500&color=FFFFFF&center=true&vCenter=true&width=1450&height=40&lines=Welcome+to+my+GitHub+profile%2C+where+I+build+things%2C+collect+bugs%2C+and+learn+along+the+way." alt="Typing SVG" /></a>
+</p>
+
+<p align="center"><img src="./divider.svg" width="720" /></p>
+
+<p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
+
+<p align="center"><img src="./divider-2-bubbles.svg" width="720" /></p>
+
+<p align="center"><img src="./divider-5-light.svg" width="720" /></p>
+
+<p align="center"><img src="./divider-8-ripples.svg" width="720" /></p>
+
+<p align="center"><img src="./divider (1).svg" width="720" /></p>
+
+<h3 align="center">Connect</h3>
+<p align="center">
+  <a href="https://github.com/seftimov"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://gitlab.com/seftimov"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+  <a href="https://www.linkedin.com/in/stefan-eftimov-8a2386272"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:stefaneftimov03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,anaconda,sklearn,pytorch,tensorflow,kafka,postgres,mysql&perline=9" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=sqlite,java,spring,cs,dotnet,c,cpp,django,docker&perline=9" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=azure,git,bash,postman,html,css,arduino,blender&perline=8" />
+</p>
+
+
+<p align="center"><img src="./divider.svg" width="720" /></p>
+
