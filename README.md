@@ -44,6 +44,8 @@
 
 <br clear="right" />
 
+<p align="center"><img src="./divider-5-light.svg" width="720" /></p>
+
 <p align="center"><img src="./divider.svg" width="720" /></p>
 
 <p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
@@ -54,7 +56,8 @@
 
 <p align="center"><img src="./divider-8-ripples.svg" width="720" /></p>
 
-<p align="center"><img src="./divider (1).svg" width="720" /></p>
+<p align="center"><img src="./divider.svg" width="720" /></p>
+
 
 <h3 align="center">Connect</h3>
 <p align="center">
@@ -73,6 +76,4 @@
   <img src="https://skillicons.dev/icons?i=azure,git,bash,postman,html,css,arduino,blender&perline=8" />
 </p>
 
-
-<p align="center"><img src="./divider.svg" width="720" /></p>
-
+<p align="center"><img src="./divider (1).svg" width="720" /></p>
