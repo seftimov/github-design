@@ -21,15 +21,12 @@
 
 
 
+
 <h2 align="center">About Me</h2>
 
-<p align="center">
-  <img src="./divider-1-wave.svg" width="100%" alt="" />
-</p>
-
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="68%" valign="middle">
+    <td width="68%" valign="middle" style="border: none;">
 
 ### Hi, I'm Stefan 👋
 
@@ -38,11 +35,12 @@ I build things, collect bugs, and learn along the way.
 I'm interested in machine learning, data science, and software engineering.
 
   </td>
-  <td width="32%" align="right" valign="middle">
-    <img src="./about-tank.svg" width="260" alt="About me illustration" />
+  <td width="32%" align="right" valign="middle" style="border: none;">
+    <img src="./about-tank.svg" width="240" alt="About me illustration" />
   </td>
   </tr>
 </table>
+
 
 
 
