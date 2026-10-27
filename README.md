@@ -26,7 +26,9 @@
 <h2 align="center">About Me</h2>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=500&size=24&letterSpacing=0.04em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=760&height=45&lines=About" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=34&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=55&lines=About+Me" alt="About Me" />
+</p>
 
 <img align="right" src="./about-tank.svg" width="280" alt="About me illustration" />
 
