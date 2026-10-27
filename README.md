@@ -21,26 +21,34 @@
 
 <h2 align="center">About Me</h2>
 
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  <img src="./divider-1-wave.svg" width="100%" alt="" />
+</p>
+
 <table>
   <tr>
-    <td width="68%" valign="top">
+    <td width="68%" valign="middle">
 
-### Machine learning · Data · Software engineering
+**Hi, I'm Stefan 👋**
 
-I'm interested in machine learning, data science, and software engineering, with a focus on turning ideas and data into practical solutions.
+I build things, collect bugs, and learn along the way.
 
-I enjoy exploring new technologies, experimenting with models, and building software that solves real problems.
-
-**Currently exploring:** machine learning, statistical methods, data analysis, and AI-powered applications.
+I'm interested in machine learning, data science, and software engineering, especially projects that turn ideas and data into practical solutions.
 
   </td>
-  <td width="32%" align="center" valign="top">
-    <img src="./about-tank.svg"
-         width="300"
-         alt="Stefan's futuristic digital tank illustration" />
+  <td width="32%" align="center" valign="middle">
+    <img src="./about-tank.svg" width="220" alt="Stefan's futuristic tank illustration" />
   </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./divider-1-wave.svg" width="100%" alt="" />
+</p>
+
 
 <br clear="right" />
 
