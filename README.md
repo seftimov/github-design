@@ -30,6 +30,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=34&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=55&lines=About+Me" alt="About Me" />
 </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=30&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=55&lines=About" alt="Typing SVG" /></a>
+
 <img align="right" src="./about-tank.svg" width="280" alt="About me illustration" />
 
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
