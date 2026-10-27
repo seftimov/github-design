@@ -23,8 +23,6 @@
 
 <br>
 
-<h2 align="center">About Me</h2>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=32&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=40&lines=About+Me" alt="Typing SVG" /></a>
   <br>
@@ -49,7 +47,6 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 
 
 
-<br clear="right" />
 
 <p align="center"><img src="./divider-5-light.svg" width="720" /></p>
 
