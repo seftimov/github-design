@@ -39,9 +39,10 @@
 
 <br clear="right"/>
 
+<br clear="right"/>
 
 
-<p align="center"><img src="./divider-5-light.svg" width="720" /></p>
+<p align="center"><img src="./divider.svg" width="720" /></p>
 
 <img align="right" src="./about-tank.svg" width="280" alt="About me illustration" />
 <img align="right" width="300" src="./neural-jellyfish-backpropagation.svg" alt="Floating in the tank" />
