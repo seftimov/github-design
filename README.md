@@ -67,11 +67,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seftimov&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" height="140" alt="Most used languages" />
-  <a href="https://github.com/seftimov/Project_WBS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seftimov&repo=Project_WBS&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9&icon_color=D45FC8" height="140" alt="Featured project" />
+  <a href="https://leetcode.com/u/seftimov/">
+    <img src="https://leetcard.jacoblin.cool/seftimov?font=Mona_Sans&ext=heatmap&border=0&radius=10&colors=0D1117,161B22,C9D1D9,8B949E,6C8CFF,2BB6C9,E8B44C,D45FC8" width="500" alt="LeetCode stats" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" alt="Dev quote" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23C9D1D9&qColor=%236C8CFF&aColor=%23D45FC8&codeColor=%232BB6C9" width="500" alt="Programming joke" />
+</p>
+
+
+
+
 
 <!-- Activity graph -->
 <p align="center">
