@@ -26,7 +26,7 @@
   <img src="./divider-1-wave.svg" width="100%" alt="" />
 </p>
 
-<img align="right" width="220" src="./about-tank.svg" alt="About me illustration" />
+<img align="right" width="280" src="./about-tank.svg" alt="About me illustration" />
 
 ### Hi, I'm Stefan 👋
 
@@ -36,9 +36,6 @@ I'm interested in machine learning, data science, and software engineering.
 
 <br clear="right" />
 
-<p align="center">
-  <img src="./divider-1-wave.svg" width="100%" alt="" />
-</p>
 
 
 
