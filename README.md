@@ -79,23 +79,18 @@
 <p align="center"><img src="./divider.svg" width="720" /></p>
 
 <!-- Activity graph, full width -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-activity-graph.luckylinux.dev/graph?username=seftimov&bg_color=0D1117&color=C9D1D9&line=6C8CFF&point=D45FC8&area=true&area_color=2BB6C9&hide_border=true" width="660" alt="Activity graph" />
 </p>
--->
+
 <!-- Activity graph, full width -->
 <p align="center">
   <img src="https://github-activity-graph.luckylinux.dev/graph?username=seftimov&bg_color=0D1117&color=C9D1D9&line=6C8CFF&point=D45FC8&area=true&area_color=2BB6C9&hide_border=true" width="100%" alt="Activity graph" />
 </p>
 
-<!-- Most used languages, underneath -->
+<!-- Activity graph, full width -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seftimov&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" width="350" alt="Most used languages" />
-</p>
-
-<!-- Activity graph -->
-<p align="center">
-   <img src="https://github-activity-graph.luckylinux.dev/graph?username=seftimov&bg_color=0D1117&color=C9D1D9&line=6C8CFF&point=D45FC8&area=true&area_color=2BB6C9&hide_border=true" width="600" alt="Activity graph" />
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=seftimov&bg_color=0D1117&color=C9D1D9&line=6C8CFF&point=D45FC8&area=true&area_color=2BB6C9&hide_border=true" width="90%" alt="Activity graph" />
 </p>
 
 
