@@ -25,15 +25,8 @@
 
 <h2 align="center">About Me</h2>
 
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=32&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=25&lines=About+Me" alt="Typing SVG" /></a>
-</p>
-
-<p align="center"><img src="./divider-8-ripples.svg" width="720" /></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=32&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=40&lines=About+Me" alt="About Me" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=32&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=40&lines=About+Me" alt="Typing SVG" /></a>
   <br>
   <img src="./divider-8-ripples.svg" width="600" />
 </p>
