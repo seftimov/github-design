@@ -4,8 +4,7 @@
 
 <br>
 
-<p align="center"><img src="./divider.svg" width="720" /></p>
-
+<p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=760&height=45&lines=Hi%2C+I%E2%80%99m+Stefan+%F0%9F%91%8B" alt="Typing SVG" /></a>
@@ -13,7 +12,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=24&duration=4500&pause=2500&color=FFFFFF&center=true&vCenter=true&width=1400&height=40&lines=Welcome+to+my+GitHub+profile%2C+where+I+build+things%2C+collect+bugs%2C+and+learn+along+the+way." alt="Typing SVG" /></a>
 </p>
 
-<p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
+<p align="center"><img src="./divider-2-bubbles.svg" width="720" /></p>
+
+
+
 
 
 <h3 align="center">About Me</h3>
