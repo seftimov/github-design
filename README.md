@@ -33,12 +33,12 @@ I enjoy exploring new technologies, experimenting with models, and building soft
 
 **Currently exploring:** machine learning, statistical methods, data analysis, and AI-powered applications.
 
-    </td>
-    <td width="32%" align="center" valign="top">
-      <img src="./about-tank.svg"
-           width="300"
-           alt="Stefan's futuristic digital tank illustration" />
-    </td>
+  </td>
+  <td width="32%" align="center" valign="top">
+    <img src="./about-tank.svg"
+         width="300"
+         alt="Stefan's futuristic digital tank illustration" />
+  </td>
   </tr>
 </table>
 
