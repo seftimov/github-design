@@ -1,3 +1,7 @@
+<img align="left"  src="./divider-vertical-left.svg"  width="40" height="3000" />
+<img align="right" src="./divider-vertical-right.svg" width="40" height="3000" />
+
+
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Banner" />
 </p>
