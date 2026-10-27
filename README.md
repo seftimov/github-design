@@ -24,6 +24,12 @@
 
 <img align="right" width="300" src="./about-tank.svg" alt="Floating in the tank" />
 
+<img align="right" width="300" src="./about-tank.svg" alt="Floating in the tank" />
+<img align="right" width="300" src="./neural-jellyfish-backpropagation.svg" alt="Floating in the tank" />
+<img align="right" width="300" src="./neural-jellyfish-from-noise.svg" alt="Floating in the tank" />
+
+
+
 <p>
   <b>Placeholder title line</b> · this is where a short introduction about you will go.
 </p>
