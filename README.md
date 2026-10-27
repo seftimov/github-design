@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=30&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=55&lines=About" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=32&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=55&lines=About+me" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" src="./about-tank.svg" width="280" alt="About me illustration" />
