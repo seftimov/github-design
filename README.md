@@ -62,6 +62,31 @@
 
 
 
+<h2 align="center">Connect</h2>
+<p align="center">
+  <a href="https://github.com/seftimov"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://gitlab.com/seftimov"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+  <a href="https://www.linkedin.com/in/stefan-eftimov-8a2386272"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:stefaneftimov03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,anaconda,sklearn,pytorch,tensorflow,kafka,postgres,mysql&perline=9" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=sqlite,java,spring,cs,dotnet,c,cpp,django,docker&perline=9" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=azure,git,bash,postman,html,css,arduino,blender&perline=8" />
+</p>
+
+
+<p align="center"><img src="./divider-8-ripples.svg" width="720" /></p>
+
+
+
+
+
+
 <!-- Contribution streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=seftimov&hide_border=true&background=0D1117&ring=6C8CFF&fire=D45FC8&currStreakLabel=2BB6C9&sideLabels=C9D1D9&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&stroke=30363D" width="600" alt="GitHub streak" />
@@ -85,22 +110,5 @@
 </p>
 
 
-
-<h2 align="center">Connect</h2>
-<p align="center">
-  <a href="https://github.com/seftimov"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://gitlab.com/seftimov"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
-  <a href="https://www.linkedin.com/in/stefan-eftimov-8a2386272"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:stefaneftimov03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
-<h2 align="center">Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,anaconda,sklearn,pytorch,tensorflow,kafka,postgres,mysql&perline=9" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=sqlite,java,spring,cs,dotnet,c,cpp,django,docker&perline=9" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=azure,git,bash,postman,html,css,arduino,blender&perline=8" />
-</p>
 
 <p align="center"><img src="./divider (1).svg" width="720" /></p>
