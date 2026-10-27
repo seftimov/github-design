@@ -62,26 +62,6 @@
 
 
 
-<h2 align="center">Connect</h2>
-<p align="center">
-  <a href="https://github.com/seftimov"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://gitlab.com/seftimov"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
-  <a href="https://www.linkedin.com/in/stefan-eftimov-8a2386272"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:stefaneftimov03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
-<h2 align="center">Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,anaconda,sklearn,pytorch,tensorflow,kafka,postgres,mysql&perline=9" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=sqlite,java,spring,cs,dotnet,c,cpp,django,docker&perline=9" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=azure,git,bash,postman,html,css,arduino,blender&perline=8" />
-</p>
-
-
-<p align="center"><img src="./divider-8-ripples.svg" width="720" /></p>
-
 
 
 
@@ -107,6 +87,28 @@
 <!-- Activity graph, full width -->
 <p align="center">
   <img src="https://github-activity-graph.luckylinux.dev/graph?username=seftimov&bg_color=0D1117&color=C9D1D9&line=6C8CFF&point=D45FC8&area=true&area_color=2BB6C9&hide_border=true" width="90%" alt="Activity graph" />
+</p>
+
+
+
+
+
+
+<h2 align="center">Connect</h2>
+<p align="center">
+  <a href="https://github.com/seftimov"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://gitlab.com/seftimov"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+  <a href="https://www.linkedin.com/in/stefan-eftimov-8a2386272"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:stefaneftimov03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,anaconda,sklearn,pytorch,tensorflow,kafka,postgres,mysql&perline=9" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=sqlite,java,spring,cs,dotnet,c,cpp,django,docker&perline=9" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=azure,git,bash,postman,html,css,arduino,blender&perline=8" />
 </p>
 
 
