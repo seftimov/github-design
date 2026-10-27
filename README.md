@@ -66,6 +66,8 @@
   <img src="https://streak-stats.demolab.com?user=seftimov&hide_border=true&background=0D1117&ring=6C8CFF&fire=D45FC8&currStreakLabel=2BB6C9&sideLabels=C9D1D9&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&stroke=30363D" width="600" alt="GitHub streak" />
 </p>
 
+<p align="center"><img src="./divider.svg" width="720" /></p>
+
 <!-- LeetCode + most used languages, side by side -->
 <p align="center">
   <a href="https://leetcode.com/u/seftimov/">
@@ -74,18 +76,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seftimov&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" height="140" alt="Most used languages" />
 </p>
 
-
+<p align="center"><img src="./divider.svg" width="720" /></p>
 
 <!-- Activity graph -->
 <p align="center">
    <img src="https://github-activity-graph.luckylinux.dev/graph?username=seftimov&bg_color=0D1117&color=C9D1D9&line=6C8CFF&point=D45FC8&area=true&area_color=2BB6C9&hide_border=true" width="600" alt="Activity graph" />
 </p>
 
-<!-- Stats card + most used languages, side by side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seftimov&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C8CFF&icon_color=D45FC8&text_color=C9D1D9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seftimov&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" height="150" />
-</p>
 
 
 <h2 align="center">Connect</h2>
