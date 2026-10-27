@@ -49,13 +49,6 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 
 
 
-
-
-<p align="center">
-  <img src="./divider-1-wave.svg" width="100%" alt="" />
-</p>
-
-
 <br clear="right" />
 
 <p align="center"><img src="./divider-5-light.svg" width="720" /></p>
