@@ -24,18 +24,19 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="right" src="./about-tank.svg" width="240" alt="About me illustration" />
+<img align="right" src="./about-tank.svg" width="280" alt="About me illustration" />
 
-<br/><br/><br/>
+**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Hi, I'm Stefan 👋
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in **reprehenderit** in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-I build things, collect bugs, and learn along the way.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 
-I'm interested in **machine learning**, **data science**, and **software engineering**.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia **consequuntur magni** dolores eos qui ratione voluptatem sequi nesciunt.
+
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
 
 <br clear="right"/>
-
 
 
 
