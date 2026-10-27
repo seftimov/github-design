@@ -42,27 +42,15 @@
 <br>
 
 
-<p align="center"><img src="./divider.svg" width="720" /></p>
-
 <img align="right" src="./about-tank.svg" width="280" alt="About me illustration" />
 <img align="right" width="300" src="./neural-jellyfish-backpropagation.svg" alt="Floating in the tank" />
 <img align="right" width="300" src="./neural-jellyfish-from-noise.svg" alt="Floating in the tank" />
 
-<p align="center"><img src="./divider.svg" width="720" /></p>
 
-<p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
 
-<p align="center"><img src="./divider-2-bubbles.svg" width="720" /></p>
 
-<p align="center"><img src="./divider-5-light.svg" width="720" /></p>
 
 <p align="center"><img src="./divider-8-ripples.svg" width="720" /></p>
-
-<p align="center"><img src="./divider.svg" width="720" /></p>
-
-
-
-
 
 
 <h1 align="center">Telemetry</h1>
@@ -115,3 +103,22 @@
 
 
 <p align="center"><img src="./divider (1).svg" width="720" /></p>
+
+
+
+<br>
+<br>
+<br>
+
+
+<p align="center"><img src="./divider.svg" width="720" /></p>
+
+<p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
+
+<p align="center"><img src="./divider-2-bubbles.svg" width="720" /></p>
+
+<p align="center"><img src="./divider-5-light.svg" width="720" /></p>
+
+<p align="center"><img src="./divider-8-ripples.svg" width="720" /></p>
+
+<p align="center"><img src="./divider.svg" width="720" /></p>
