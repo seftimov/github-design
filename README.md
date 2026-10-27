@@ -1,34 +1,25 @@
 <img align="left"  src="./divider-vertical-left.svg"  width="40" height="3000" />
 <img align="right" src="./divider-vertical-right.svg" width="40" height="3000" />
 
-
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Banner" />
+  <img src="./banner.svg" width="660" alt="Banner" />
 </p>
 
 <br>
 
-<p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
+<p align="center"><img src="./divider-1-wave.svg" width="600" /></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=760&height=45&lines=Hi%2C+I%E2%80%99m+Stefan+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Hi%2C+I%E2%80%99m+Stefan+%F0%9F%91%8B" alt="Typing SVG" /></a>
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=24&duration=4500&pause=2500&color=FFFFFF&center=true&vCenter=true&width=1400&height=40&lines=Welcome+to+my+GitHub+profile%2C+where+I+build+things%2C+collect+bugs%2C+and+learn+along+the+way." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=400&size=20&duration=4500&pause=2500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Welcome+to+my+GitHub+profile%2C+where+I+build+things%2C;collect+bugs%2C+and+learn+along+the+way." alt="Typing SVG" /></a>
 </p>
 
-<p align="center"><img src="./divider-2-bubbles.svg" width="720" /></p>
-
-
-
-
-
-
-
-
+<p align="center"><img src="./divider-2-bubbles.svg" width="600" /></p>
 
 <h2 align="center">About Me</h2>
 
-<img align="right" src="./about-tank.svg" width="280" alt="About me illustration" />
+<img align="right" src="./about-tank.svg" width="240" alt="About me illustration" />
 
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -40,37 +31,24 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 
 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
 
-<br clear="right"/>
+<p align="center"><img src="./divider-1-wave.svg" width="600" alt="" /></p>
 
+<p align="center"><img src="./divider-5-light.svg" width="600" /></p>
 
+<img align="right" width="240" src="./neural-jellyfish-backpropagation.svg" alt="Floating in the tank" />
+<img align="right" width="240" src="./neural-jellyfish-from-noise.svg" alt="Floating in the tank" />
 
+<p align="center"><img src="./divider.svg" width="600" /></p>
 
+<p align="center"><img src="./divider-1-wave.svg" width="600" /></p>
 
+<p align="center"><img src="./divider-2-bubbles.svg" width="600" /></p>
 
-<p align="center">
-  <img src="./divider-1-wave.svg" width="100%" alt="" />
-</p>
+<p align="center"><img src="./divider-5-light.svg" width="600" /></p>
 
+<p align="center"><img src="./divider-8-ripples.svg" width="600" /></p>
 
-<br clear="right" />
-
-<p align="center"><img src="./divider-5-light.svg" width="720" /></p>
-
-<img align="right" width="300" src="./neural-jellyfish-backpropagation.svg" alt="Floating in the tank" />
-<img align="right" width="300" src="./neural-jellyfish-from-noise.svg" alt="Floating in the tank" />
-
-<p align="center"><img src="./divider.svg" width="720" /></p>
-
-<p align="center"><img src="./divider-1-wave.svg" width="720" /></p>
-
-<p align="center"><img src="./divider-2-bubbles.svg" width="720" /></p>
-
-<p align="center"><img src="./divider-5-light.svg" width="720" /></p>
-
-<p align="center"><img src="./divider-8-ripples.svg" width="720" /></p>
-
-<p align="center"><img src="./divider.svg" width="720" /></p>
-
+<p align="center"><img src="./divider.svg" width="600" /></p>
 
 <h1 align="center">Connect</h1>
 <p align="center">
@@ -89,4 +67,4 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
   <img src="https://skillicons.dev/icons?i=azure,git,bash,postman,html,css,arduino,blender&perline=8" />
 </p>
 
-<p align="center"><img src="./divider (1).svg" width="720" /></p>
+<p align="center"><img src="./divider (1).svg" width="600" /></p>
