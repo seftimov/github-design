@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=32&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=40&lines=About+Me" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=30&letterSpacing=0.02em&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=40&lines=About+Me" alt="Typing SVG" /></a>
   <br>
   <img src="./divider-8-ripples.svg" width="600" />
 </p>
@@ -66,7 +66,7 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 <p align="center"><img src="./divider.svg" width="720" /></p>
 
 
-<h1 align="center">Connect</h1>
+<h2 align="center">Connect</h2>
 <p align="center">
   <a href="https://github.com/seftimov"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://gitlab.com/seftimov"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
@@ -74,7 +74,7 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
   <a href="mailto:stefaneftimov03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-<h1 align="center">Tech Stack</h1>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,anaconda,sklearn,pytorch,tensorflow,kafka,postgres,mysql&perline=9" />
   <br>
