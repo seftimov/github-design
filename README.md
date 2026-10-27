@@ -84,7 +84,7 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
   <a href="mailto:stefaneftimov03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h1 align="center">Tech Stack</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,anaconda,sklearn,pytorch,tensorflow,kafka,postgres,mysql&perline=9" />
   <br>
