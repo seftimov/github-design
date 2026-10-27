@@ -39,23 +39,6 @@
 
 
 
-<div align="center">
-<table>
-  <tr>
-    <td width="380" valign="middle">
-
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-</td>
-    <td width="220" valign="middle" align="center">
-      <img src="./about-tank.svg" width="200" alt="About me illustration" />
-    </td>
-  </tr>
-</table>
-</div>
-
 <p align="center"><img src="./divider-5-light.svg" width="720" /></p>
 
 <img align="right" width="300" src="./neural-jellyfish-backpropagation.svg" alt="Floating in the tank" />
