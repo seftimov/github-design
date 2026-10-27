@@ -39,7 +39,7 @@
 
 <br clear="right"/>
 
-<br clear="right"/>
+<br>
 
 
 <p align="center"><img src="./divider.svg" width="720" /></p>
