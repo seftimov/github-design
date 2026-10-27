@@ -24,16 +24,17 @@
 
 <h2 align="center">About Me</h2>
 
-<div align="center">
-  <img src="./about-tank.svg" width="260" alt="About me illustration" />
+<img align="right" src="./about-tank.svg" width="240" alt="About me illustration" />
 
-  <h3>Hi, I'm Stefan 👋</h3>
+<br/><br/><br/>
 
-  <p>
-    I build things, collect bugs, and learn along the way.<br/>
-    I'm interested in <b>machine learning</b>, <b>data science</b>, and <b>software engineering</b>.
-  </p>
-</div>
+### Hi, I'm Stefan 👋
+
+I build things, collect bugs, and learn along the way.
+
+I'm interested in **machine learning**, **data science**, and **software engineering**.
+
+<br clear="right"/>
 
 
 
