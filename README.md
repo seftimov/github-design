@@ -24,22 +24,16 @@
 
 <h2 align="center">About Me</h2>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="68%" valign="middle" style="border: none;">
+<div align="center">
+  <img src="./about-tank.svg" width="260" alt="About me illustration" />
 
-### Hi, I'm Stefan 👋
+  <h3>Hi, I'm Stefan 👋</h3>
 
-I build things, collect bugs, and learn along the way.
-
-I'm interested in machine learning, data science, and software engineering.
-
-  </td>
-  <td width="32%" align="right" valign="middle" style="border: none;">
-    <img src="./about-tank.svg" width="240" alt="About me illustration" />
-  </td>
-  </tr>
-</table>
+  <p>
+    I build things, collect bugs, and learn along the way.<br/>
+    I'm interested in <b>machine learning</b>, <b>data science</b>, and <b>software engineering</b>.
+  </p>
+</div>
 
 
 
