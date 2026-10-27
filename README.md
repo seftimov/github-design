@@ -35,6 +35,10 @@
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
+<br clear="right"/>
+
+
+
 <div align="center">
 <table>
   <tr>
@@ -51,12 +55,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </tr>
 </table>
 </div>
-
-<br clear="right"/>
-
-
-
-
 
 <p align="center"><img src="./divider-5-light.svg" width="720" /></p>
 
