@@ -24,12 +24,6 @@
 
 <img align="right" width="300" src="./about-tank.svg" alt="Floating in the tank" />
 
-<img align="right" width="300" src="./about-tank.svg" alt="Floating in the tank" />
-<img align="right" width="300" src="./neural-jellyfish-backpropagation.svg" alt="Floating in the tank" />
-<img align="right" width="300" src="./neural-jellyfish-from-noise.svg" alt="Floating in the tank" />
-
-
-
 <p>
   <b>Placeholder title line</b> · this is where a short introduction about you will go.
 </p>
@@ -51,6 +45,9 @@
 <br clear="right" />
 
 <p align="center"><img src="./divider-5-light.svg" width="720" /></p>
+
+<img align="right" width="300" src="./neural-jellyfish-backpropagation.svg" alt="Floating in the tank" />
+<img align="right" width="300" src="./neural-jellyfish-from-noise.svg" alt="Floating in the tank" />
 
 <p align="center"><img src="./divider.svg" width="720" /></p>
 
