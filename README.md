@@ -78,6 +78,12 @@
 
 <p align="center"><img src="./divider.svg" width="720" /></p>
 
+<!-- Activity graph (bigger) + most used languages, side by side -->
+<p align="center">
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=seftimov&bg_color=0D1117&color=C9D1D9&line=6C8CFF&point=D45FC8&area=true&area_color=2BB6C9&hide_border=true&height=300" width="430" alt="Activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seftimov&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9&card_width=250" width="230" alt="Most used languages" />
+</p>
+
 <!-- Activity graph -->
 <p align="center">
    <img src="https://github-activity-graph.luckylinux.dev/graph?username=seftimov&bg_color=0D1117&color=C9D1D9&line=6C8CFF&point=D45FC8&area=true&area_color=2BB6C9&hide_border=true" width="600" alt="Activity graph" />
