@@ -35,6 +35,23 @@
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
+<div align="center">
+<table>
+  <tr>
+    <td width="380" valign="middle">
+
+**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+</td>
+    <td width="220" valign="middle" align="center">
+      <img src="./about-tank.svg" width="200" alt="About me illustration" />
+    </td>
+  </tr>
+</table>
+</div>
+
 <br clear="right"/>
 
 
