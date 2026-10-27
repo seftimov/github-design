@@ -70,7 +70,7 @@
 
 <!-- LeetCode + most used languages, side by side, full width -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seftimov&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" width="31%" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seftimov&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" width="33%" alt="Most used languages" />
   <a href="https://leetcode.com/u/seftimov/">
     <img src="https://leetcard.jacoblin.cool/seftimov?font=Mona_Sans&border=0&radius=10&colors=0D1117,161B22,C9D1D9,8B949E,6C8CFF,2BB6C9,E8B44C,D45FC8" width="47%" alt="LeetCode stats" />
   </a>
