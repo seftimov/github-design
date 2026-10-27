@@ -68,7 +68,7 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 <p align="center"><img src="./divider.svg" width="720" /></p>
 
 
-<h2 align="center">Connect</h2>
+<h1 align="center">Connect</h1>
 <p align="center">
   <a href="https://github.com/seftimov"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://gitlab.com/seftimov"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
