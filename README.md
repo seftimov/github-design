@@ -18,27 +18,29 @@
 
 
 
-<h3 align="center">About Me</h3>
 
-<img align="right" width="300" src="./about-tank.svg" alt="Floating in the tank" />
+<h2 align="center">About Me</h2>
 
-<p>
-  <b>Placeholder title line</b> · this is where a short introduction about you will go.
-</p>
+<table>
+  <tr>
+    <td width="68%" valign="top">
 
-<p>
-  This is the second paragraph. It will describe what you study, what you are working on
-  right now and what kind of problems you enjoy solving.
-</p>
+### Machine learning · Data · Software engineering
 
-<p>
-  This is the third paragraph. It will mention the tools and topics you are learning
-  at the moment, and what you would like to work on next.
-</p>
+I'm interested in machine learning, data science, and software engineering, with a focus on turning ideas and data into practical solutions.
 
-<p>
-  This is the last paragraph. It will end with something personal or a short goal.
-</p>
+I enjoy exploring new technologies, experimenting with models, and building software that solves real problems.
+
+**Currently exploring:** machine learning, statistical methods, data analysis, and AI-powered applications.
+
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="./about-tank.svg"
+           width="300"
+           alt="Stefan's futuristic digital tank illustration" />
+    </td>
+  </tr>
+</table>
 
 <br clear="right" />
 
