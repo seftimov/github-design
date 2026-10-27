@@ -23,7 +23,7 @@
 
 <br>
 
-<h2 align="center">About Me</h2>
+<h1 align="center">About Me</h1>
 
 <!--
 <p align="center">
