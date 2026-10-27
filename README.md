@@ -85,6 +85,7 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 </p>
 
 <h3 align="center">Tech Stack</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,anaconda,sklearn,pytorch,tensorflow,kafka,postgres,mysql&perline=9" />
   <br>
   <img src="https://skillicons.dev/icons?i=sqlite,java,spring,cs,dotnet,c,cpp,django,docker&perline=9" />
