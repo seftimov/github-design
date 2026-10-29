@@ -33,7 +33,7 @@
 </p>
 -->
 
-<img align="right" src="./neural-jellyfish-forward-pass.svg" width="28%" alt="About me illustration" />
+<img align="right" src="./neural-jellyfish-forward-pass.svg" width="32%" alt="About me illustration" />
 
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
