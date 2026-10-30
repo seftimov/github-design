@@ -39,11 +39,11 @@
 
 <br>
 
-🧠 My work and curiosity span machine learning, data science, and software engineering.
+🧠 My work and curiosity span **machine learning**, **data science**, and **software engineering**.
 
 📊 I enjoy understanding how data can reveal patterns, how ML models can turn those patterns into intelligent predictions, and how software can bring these ideas to life. I'm equally drawn to the engineering behind applications, from backend systems and architecture to clean, intuitive interfaces.
 
-💡 What I find most interesting is how these different areas come together to solve complex problems and create useful solutions.
+💡 What I find most interesting is how these different areas come together to solve complex problems and create useful solutions. 🤖
 
 <br clear="right"/>
 
