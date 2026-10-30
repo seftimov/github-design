@@ -38,15 +38,7 @@
 <br>
 
 <br>
-<!--
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Duis aute irure dolor in **reprehenderit** in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
--->
+
 I'm **Stefan**, a developer passionate about **machine learning**, **data**, and building things that are both useful and well designed. 🚀
 
 I enjoy exploring **ML models**, **data science**, and **intelligent systems**, while also working across the full stack of software, from backend services to clean, thoughtful design.
