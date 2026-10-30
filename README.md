@@ -39,11 +39,11 @@
 
 <br>
 
-I'm **Stefan**, a developer passionate about **machine learning**, **data**, and building things that are both useful and well designed. 🚀
+🧠 My work and curiosity span machine learning, data science, and software engineering.
 
-I enjoy exploring **ML models**, **data science**, and **intelligent systems**, while also working across the full stack of software, from backend services to clean, thoughtful design.
+📊 I enjoy understanding how data can reveal patterns, how ML models can turn those patterns into intelligent predictions, and how software can bring these ideas to life. I'm equally drawn to the engineering behind applications, from backend systems and architecture to clean, intuitive interfaces.
 
-I'm always learning, building, and experimenting with new ideas, with the goal of combining **code**, **data**, and **creativity** to create something meaningful. ✨
+💡 What I find most interesting is how these different areas come together to solve complex problems and create useful solutions.
 
 <br clear="right"/>
 
